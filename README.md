@@ -4,4 +4,4 @@ in this repository we have shared latest version of elementor pro free download 
 Please join our telegram channel - https://t.me/shineads
 
 Elementor Pro Templates Available - Yes working (Follow installation guide https://www.shineads.in/elementor-pro-free-download-545
-Shared Version - Elementor Pro v3.13.1 + Elementor Free v3.13.2
+Shared Version - Elementor Pro v3.13.2 + Elementor Free v3.13.3
