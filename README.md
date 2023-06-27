@@ -5,4 +5,4 @@ Please join our Telegram channel - https://t.me/shineads
 
 Elementor Pro Templates Available - Yes working (Follow installation guide https://shineads.org/elementor-pro-free-download
 
-Shared Version - Elementor Pro v3.14.0 + Elementor Free v3.14.0
+Shared Version - Elementor Pro v3.14.1 + Elementor Free v3.14.1
