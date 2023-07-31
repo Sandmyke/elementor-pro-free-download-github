@@ -5,7 +5,7 @@ Please join our Telegram channel - https://t.me/shineads
 
 Elementor Pro Templates Available - Yes working (Follow installation guide https://shineads.org/elementor-pro-free-download
 
-Shared Version - Elementor Pro v3.14.1 + Elementor Free v3.14.1
+Shared Version - Elementor Pro v3.15.0 + Elementor Free v3.15.0
 
 Download Elementor Pro Plugin Free; yes, you heard right. Now you can free download the Elementor Pro plugin and use its unique premium features for free. Yes, we are explaining the Elementor Pro GPL version file. Like other GPL files, Elementor Pro released its plugin under a GNU license called GPL (General Public License). Let's check what the Elementor Pro plugin is.
 
