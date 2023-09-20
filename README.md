@@ -1,7 +1,7 @@
 # elementor-pro-free-download-github
 In this repository, we have shared the latest version of Elementor Pro free download GitHub plugin for free to everyone. the shared version comes with a GNU license. For more free WordPress Premium Themes and Plugins please visit https://www.shineads.in or https://getgplfree.com
 
-Shared Version - Elementor Pro v3.16.0 + Elementor Free v3.16.0
+Shared Version - Elementor Pro v3.16.2 + Elementor Free v3.16.4
 
 Please join our Telegram channel - https://t.me/shineads
 
